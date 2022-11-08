@@ -20,6 +20,8 @@
 印刷後は左のようになりました。変になった部分をニッパーで切ってやすりで削って、結果的には右のようにいい顔になりました。    
 <img src="https://user-images.githubusercontent.com/67863963/200576767-16443887-2ea6-4f1f-a19a-ad9576ea8e49.png" width="20%"> 
 <img src="https://user-images.githubusercontent.com/67863963/200577190-45c42bb8-1d93-412a-bab5-8fd635204f71.png" width="20%">  
+
+フィラメントはOVERTURE PLA マットホワイト を使いました（[リンク](https://www.amazon.co.jp/gp/product/B08LKTXLC8/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)）
     
 点灯させている様子  
 
